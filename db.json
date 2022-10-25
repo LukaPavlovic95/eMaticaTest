@@ -1,7 +1,7 @@
 {
   "entities": [
     {
-      "spol": "M: 1",
+      "spol": "1",
       "rodjenje": {
         "datum": "20221025",
         "mjesto": "string"
@@ -54,7 +54,7 @@
       "djelatnikId": 10
     },
 	{
-      "spol": "M: 1",
+      "spol": "1",
       "rodjenje": {
         "datum": "20221025",
         "mjesto": "string"
