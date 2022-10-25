@@ -2,105 +2,13 @@
   "eMatica_DjelatnikDto": [
     {
       "spol": "1",
-      "rodjenje": {
-        "datum": "20221025",
-        "mjesto": "string"
-      },
-      "akademskiStrucniNazivId": 1,
-      "strucnaSprema": {
-        "strucnaSpremaId": 1,
-        "datum": "20221025",
-        "ustanova": "string"
-      },
-      "adrese": [
-        {
-          "tipAdrese": 1,
-          "vrijediOd": "20221025",
-          "vrijediDo": "20221025",
-          "adresaId": 0,
-          "mjestoId": 0,
-          "mjesto": "string",
-          "adresa1": "string",
-          "adresa2": "string",
-          "pp": "string"
-        }
-      ],
-      "ustanove": [
-        {
-          "ustanovaId": 0,
-          "sifra": "string",
-          "podsifra": "string",
-          "vrijediOd": "20221025",
-          "vrijediDo": "20221025",
-          "ugovori": [
-            {
-              "vrstaUgovoraId": 0,
-              "vrijediOd": "20221025",
-              "vrijediDo": "20221025"
-            }
-          ],
-          "radnaMjesta": [
-            {
-              "radnoMjestoId": 0,
-              "vrijediOd": "20221025",
-              "vrijediDo": "20221025"
-            }
-          ]
-        }
-      ],
       "ime": "test1Ime",
-      "prezime": "test1Prezime",
-      "oib": "11111111",
+      "prezime": "Test1Prezime",
+      "oib": "2222222222",
       "djelatnikId": 10
     },
     {
       "spol": "1",
-      "rodjenje": {
-        "datum": "20221025",
-        "mjesto": "string"
-      },
-      "akademskiStrucniNazivId": 0,
-      "strucnaSprema": {
-        "strucnaSpremaId": 0,
-        "datum": "20221025",
-        "ustanova": "string"
-      },
-      "adrese": [
-        {
-          "tipAdrese": 0,
-          "vrijediOd": "20221025",
-          "vrijediDo": "20221025",
-          "adresaId": 0,
-          "mjestoId": 0,
-          "mjesto": "string",
-          "adresa1": "string",
-          "adresa2": "string",
-          "pp": "string"
-        }
-      ],
-      "ustanove": [
-        {
-          "ustanovaId": 0,
-          "sifra": "string",
-          "podsifra": "string",
-          "vrijediOd": "20221025",
-          "vrijediDo": "20221025",
-          "ugovori": [
-            {
-              "vrstaUgovoraId": 0,
-              "vrijediOd": "20221025",
-              "vrijediDo": "20221025"
-            }
-          ],
-          "radnaMjesta": [
-            {
-              "radnoMjestoId": 0,
-              "vrijediOd": "20221025",
-              "vrijediDo": "20221025"
-            }
-          ]
-        }
-      ],
       "ime": "test2Ime",
       "prezime": "Test2Prezime",
       "oib": "2222222222",
