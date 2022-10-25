@@ -1,0 +1,111 @@
+{
+  "entities": [
+    {
+      "spol": "M: 1",
+      "rodjenje": {
+        "datum": "2022-10-25T10:16:18.095Z",
+        "mjesto": "string"
+      },
+      "akademskiStrucniNazivId": 1,
+      "strucnaSprema": {
+        "strucnaSpremaId": 1,
+        "datum": "2022-10-25T10:16:18.095Z",
+        "ustanova": "string"
+      },
+      "adrese": [
+        {
+          "tipAdrese": 1,
+          "vrijediOd": "2022-10-25T10:16:18.095Z",
+          "vrijediDo": "2022-10-25T10:16:18.096Z",
+          "adresaId": 0,
+          "mjestoId": 0,
+          "mjesto": "string",
+          "adresa1": "string",
+          "adresa2": "string",
+          "pp": "string"
+        }
+      ],
+      "ustanove": [
+        {
+          "ustanovaId": 0,
+          "sifra": "string",
+          "podsifra": "string",
+          "vrijediOd": "2022-10-25T10:16:18.096Z",
+          "vrijediDo": "2022-10-25T10:16:18.096Z",
+          "ugovori": [
+            {
+              "vrstaUgovoraId": 0,
+              "vrijediOd": "2022-10-25T10:16:18.096Z",
+              "vrijediDo": "2022-10-25T10:16:18.096Z"
+            }
+          ],
+          "radnaMjesta": [
+            {
+              "radnoMjestoId": 0,
+              "vrijediOd": "2022-10-25T10:16:18.096Z",
+              "vrijediDo": "2022-10-25T10:16:18.096Z"
+            }
+          ]
+        }
+      ],
+      "ime": "test1Ime",
+      "prezime": "test1Prezime",
+      "oib": "11111111",
+      "djelatnikId": 10
+    },
+	{
+      "spol": "M: 1",
+      "rodjenje": {
+        "datum": "2022-10-25T10:16:18.095Z",
+        "mjesto": "string"
+      },
+      "akademskiStrucniNazivId": 0,
+      "strucnaSprema": {
+        "strucnaSpremaId": 0,
+        "datum": "2022-10-25T10:16:18.095Z",
+        "ustanova": "string"
+      },
+      "adrese": [
+        {
+          "tipAdrese": 0,
+          "vrijediOd": "2022-10-25T10:16:18.095Z",
+          "vrijediDo": "2022-10-25T10:16:18.096Z",
+          "adresaId": 0,
+          "mjestoId": 0,
+          "mjesto": "string",
+          "adresa1": "string",
+          "adresa2": "string",
+          "pp": "string"
+        }
+      ],
+      "ustanove": [
+        {
+          "ustanovaId": 0,
+          "sifra": "string",
+          "podsifra": "string",
+          "vrijediOd": "2022-10-25T10:16:18.096Z",
+          "vrijediDo": "2022-10-25T10:16:18.096Z",
+          "ugovori": [
+            {
+              "vrstaUgovoraId": 0,
+              "vrijediOd": "2022-10-25T10:16:18.096Z",
+              "vrijediDo": "2022-10-25T10:16:18.096Z"
+            }
+          ],
+          "radnaMjesta": [
+            {
+              "radnoMjestoId": 0,
+              "vrijediOd": "2022-10-25T10:16:18.096Z",
+              "vrijediDo": "2022-10-25T10:16:18.096Z"
+            }
+          ]
+        }
+      ],
+      "ime": "test2Ime",
+      "prezime": "Test2Prezime",
+      "oib": "2222222222",
+      "djelatnikId": 11
+    }
+  ],
+  "totalItems": 2
+}
