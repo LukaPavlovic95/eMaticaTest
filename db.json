@@ -1,6 +1,4 @@
-{
-  "entities": [
-    {
+ {
       "spol": "1",
       "rodjenje": {
         "datum": "20221025",
@@ -105,7 +103,5 @@
       "prezime": "Test2Prezime",
       "oib": "2222222222",
       "djelatnikId": 11
-    }
-  ],
-  "totalItems": 2
 }
+  
