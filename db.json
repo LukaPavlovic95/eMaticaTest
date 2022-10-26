@@ -3,20 +3,20 @@
        {
       "spol": "M: 1",
       "rodjenje": {
-        "datum": "2022-10-25T10:16:18.095Z",
+        "datum": "20221025",
         "mjesto": "string"
       },
       "akademskiStrucniNazivId": 1,
       "strucnaSprema": {
         "strucnaSpremaId": 1,
-        "datum": "2022-10-25T10:16:18.095Z",
+        "datum": "20221025",
         "ustanova": "string"
       },
       "adrese": [
         {
           "tipAdrese": 1,
-          "vrijediOd": "2022-10-25T10:16:18.095Z",
-          "vrijediDo": "2022-10-25T10:16:18.096Z",
+          "vrijediOd": "20221025",
+          "vrijediDo": "20221025",
           "adresaId": 0,
           "mjestoId": 0,
           "mjesto": "string",
@@ -30,20 +30,20 @@
           "ustanovaId": 0,
           "sifra": "string",
           "podsifra": "string",
-          "vrijediOd": "2022-10-25T10:16:18.096Z",
-          "vrijediDo": "2022-10-25T10:16:18.096Z",
+          "vrijediOd": "20221025",
+          "vrijediDo": "20221025",
           "ugovori": [
             {
               "vrstaUgovoraId": 0,
-              "vrijediOd": "2022-10-25T10:16:18.096Z",
-              "vrijediDo": "2022-10-25T10:16:18.096Z"
+              "vrijediOd": "20221025",
+              "vrijediDo": "20221025"
             }
           ],
           "radnaMjesta": [
             {
               "radnoMjestoId": 0,
-              "vrijediOd": "2022-10-25T10:16:18.096Z",
-              "vrijediDo": "2022-10-25T10:16:18.096Z"
+              "vrijediOd": "20221025",
+              "vrijediDo": "20221025"
             }
           ]
         }
@@ -56,20 +56,20 @@
 	{
       "spol": "M: 1",
       "rodjenje": {
-        "datum": "2022-10-25T10:16:18.095Z",
+        "datum": "20221025",
         "mjesto": "string"
       },
       "akademskiStrucniNazivId": 0,
       "strucnaSprema": {
         "strucnaSpremaId": 0,
-        "datum": "2022-10-25T10:16:18.095Z",
+        "datum": "20221025",
         "ustanova": "string"
       },
       "adrese": [
         {
           "tipAdrese": 0,
-          "vrijediOd": "2022-10-25T10:16:18.095Z",
-          "vrijediDo": "2022-10-25T10:16:18.096Z",
+          "vrijediOd": "20221025",
+          "vrijediDo": "20221025",
           "adresaId": 0,
           "mjestoId": 0,
           "mjesto": "string",
@@ -83,20 +83,20 @@
           "ustanovaId": 0,
           "sifra": "string",
           "podsifra": "string",
-          "vrijediOd": "2022-10-25T10:16:18.096Z",
-          "vrijediDo": "2022-10-25T10:16:18.096Z",
+          "vrijediOd": "20221025",
+          "vrijediDo": "20221025",
           "ugovori": [
             {
               "vrstaUgovoraId": 0,
-              "vrijediOd": "2022-10-25T10:16:18.096Z",
-              "vrijediDo": "2022-10-25T10:16:18.096Z"
+              "vrijediOd": "20221025",
+              "vrijediDo": "20221025"
             }
           ],
           "radnaMjesta": [
             {
               "radnoMjestoId": 0,
-              "vrijediOd": "2022-10-25T10:16:18.096Z",
-              "vrijediDo": "2022-10-25T10:16:18.096Z"
+              "vrijediOd": "20221025",
+              "vrijediDo": "20221025"
             }
           ]
         }
