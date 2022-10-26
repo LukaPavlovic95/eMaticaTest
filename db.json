@@ -17,8 +17,8 @@
           "tipAdrese": 1,
           "vrijediOd": "20221025",
           "vrijediDo": "20221025",
-          "adresaId": 0,
-          "mjestoId": 0,
+          "adresaId": 1,
+          "mjestoId": 1,
           "mjesto": "string",
           "adresa1": "string",
           "adresa2": "string",
@@ -27,21 +27,21 @@
       ],
       "ustanove": [
         {
-          "ustanovaId": 0,
+          "ustanovaId": 1,
           "sifra": "string",
           "podsifra": "string",
           "vrijediOd": "20221025",
           "vrijediDo": "20221025",
           "ugovori": [
             {
-              "vrstaUgovoraId": 0,
+              "vrstaUgovoraId": 1,
               "vrijediOd": "20221025",
               "vrijediDo": "20221025"
             }
           ],
           "radnaMjesta": [
             {
-              "radnoMjestoId": 0,
+              "radnoMjestoId": 1,
               "vrijediOd": "20221025",
               "vrijediDo": "20221025"
             }
@@ -59,19 +59,19 @@
         "datum": "20221025",
         "mjesto": "string"
       },
-      "akademskiStrucniNazivId": 0,
+      "akademskiStrucniNazivId": 1,
       "strucnaSprema": {
-        "strucnaSpremaId": 0,
+        "strucnaSpremaId": 1,
         "datum": "20221025",
         "ustanova": "string"
       },
       "adrese": [
         {
-          "tipAdrese": 0,
+          "tipAdrese": 1,
           "vrijediOd": "20221025",
           "vrijediDo": "20221025",
-          "adresaId": 0,
-          "mjestoId": 0,
+          "adresaId": 1,
+          "mjestoId": 1,
           "mjesto": "string",
           "adresa1": "string",
           "adresa2": "string",
@@ -80,21 +80,21 @@
       ],
       "ustanove": [
         {
-          "ustanovaId": 0,
+          "ustanovaId": 1,
           "sifra": "string",
           "podsifra": "string",
           "vrijediOd": "20221025",
           "vrijediDo": "20221025",
           "ugovori": [
             {
-              "vrstaUgovoraId": 0,
+              "vrstaUgovoraId": 1,
               "vrijediOd": "20221025",
               "vrijediDo": "20221025"
             }
           ],
           "radnaMjesta": [
             {
-              "radnoMjestoId": 0,
+              "radnoMjestoId": 1,
               "vrijediOd": "20221025",
               "vrijediDo": "20221025"
             }
