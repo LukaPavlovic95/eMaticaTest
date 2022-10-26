@@ -2,29 +2,7 @@
   "eMatica_DjelatnikDto": [
        {
       "spol": "1",
-      "rodjenje": {
-        "datum": "20221025",
-        "mjesto": "string"
-      },
       "akademskiStrucniNazivId": 1,
-      "strucnaSprema": {
-        "strucnaSpremaId": 1,
-        "datum": "20221025",
-        "ustanova": "string"
-      },
-      "adrese": [
-        {
-          "tipAdrese": 1,
-          "vrijediOd": "20221025",
-          "vrijediDo": "20221025",
-          "adresaId": 1,
-          "mjestoId": 1,
-          "mjesto": "string",
-          "adresa1": "string",
-          "adresa2": "string",
-          "pp": "string"
-        }
-      ],
       "ustanove": [
         {
           "ustanovaId": 1,
@@ -55,29 +33,7 @@
     },
 	{
       "spol": "1",
-      "rodjenje": {
-        "datum": "20221025",
-        "mjesto": "string"
-      },
       "akademskiStrucniNazivId": 1,
-      "strucnaSprema": {
-        "strucnaSpremaId": 1,
-        "datum": "20221025",
-        "ustanova": "string"
-      },
-      "adrese": [
-        {
-          "tipAdrese": 1,
-          "vrijediOd": "20221025",
-          "vrijediDo": "20221025",
-          "adresaId": 1,
-          "mjestoId": 1,
-          "mjesto": "string",
-          "adresa1": "string",
-          "adresa2": "string",
-          "pp": "string"
-        }
-      ],
       "ustanove": [
         {
           "ustanovaId": 1,
