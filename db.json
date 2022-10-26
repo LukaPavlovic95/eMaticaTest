@@ -17,8 +17,8 @@
           "tipAdrese": 1,
           "vrijediOd": "2022-10-25T10:16:18.095Z",
           "vrijediDo": "2022-10-25T10:16:18.096Z",
-          "adresaId": 0,
-          "mjestoId": 0,
+          "adresaId": 1,
+          "mjestoId": 1,
           "mjesto": "string",
           "adresa1": "string",
           "adresa2": "string",
@@ -27,21 +27,21 @@
       ],
       "ustanove": [
         {
-          "ustanovaId": 0,
+          "ustanovaId": 1,
           "sifra": "string",
           "podsifra": "string",
           "vrijediOd": "2022-10-25T10:16:18.096Z",
           "vrijediDo": "2022-10-25T10:16:18.096Z",
           "ugovori": [
             {
-              "vrstaUgovoraId": 0,
+              "vrstaUgovoraId": 1,
               "vrijediOd": "2022-10-25T10:16:18.096Z",
               "vrijediDo": "2022-10-25T10:16:18.096Z"
             }
           ],
           "radnaMjesta": [
             {
-              "radnoMjestoId": 0,
+              "radnoMjestoId": 1,
               "vrijediOd": "2022-10-25T10:16:18.096Z",
               "vrijediDo": "2022-10-25T10:16:18.096Z"
             }
@@ -54,7 +54,7 @@
       "djelatnikId": 10
     },
 	{
-      "spol": "M: 1",
+      "spol": "M: 2",
       "rodjenje": {
         "datum": "2022-10-25T10:16:18.095Z",
         "mjesto": "string"
@@ -67,11 +67,11 @@
       },
       "adrese": [
         {
-          "tipAdrese": 0,
+          "tipAdrese": 2,
           "vrijediOd": "2022-10-25T10:16:18.095Z",
           "vrijediDo": "2022-10-25T10:16:18.096Z",
-          "adresaId": 0,
-          "mjestoId": 0,
+          "adresaId": 2,
+          "mjestoId": 2,
           "mjesto": "string",
           "adresa1": "string",
           "adresa2": "string",
@@ -80,21 +80,21 @@
       ],
       "ustanove": [
         {
-          "ustanovaId": 0,
+          "ustanovaId": 2,
           "sifra": "string",
           "podsifra": "string",
           "vrijediOd": "2022-10-25T10:16:18.096Z",
           "vrijediDo": "2022-10-25T10:16:18.096Z",
           "ugovori": [
             {
-              "vrstaUgovoraId": 0,
+              "vrstaUgovoraId": 2,
               "vrijediOd": "2022-10-25T10:16:18.096Z",
               "vrijediDo": "2022-10-25T10:16:18.096Z"
             }
           ],
           "radnaMjesta": [
             {
-              "radnoMjestoId": 0,
+              "radnoMjestoId": 2,
               "vrijediOd": "2022-10-25T10:16:18.096Z",
               "vrijediDo": "2022-10-25T10:16:18.096Z"
             }
