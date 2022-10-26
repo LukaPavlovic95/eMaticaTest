@@ -59,9 +59,9 @@
         "datum": "2022-10-25T10:16:18.095Z",
         "mjesto": "string"
       },
-      "akademskiStrucniNazivId": 0,
+      "akademskiStrucniNazivId": 2,
       "strucnaSprema": {
-        "strucnaSpremaId": 0,
+        "strucnaSpremaId": 2,
         "datum": "2022-10-25T10:16:18.095Z",
         "ustanova": "string"
       },
