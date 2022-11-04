@@ -1,110 +1,163 @@
 {
-  "eMatica_DjelatnikDto": [
-       {
-      "spol": "M: 1",
-      "rodjenje": {
-        "datum": "2022-10-25T10:16:18.095Z",
-        "mjesto": "string"
-      },
-      "akademskiStrucniNazivId": 1,
-      "strucnaSprema": {
-        "strucnaSpremaId": 1,
-        "datum": "2022-10-25T10:16:18.095Z",
-        "ustanova": "string"
-      },
-      "adrese": [
-        {
-          "tipAdrese": 1,
-          "vrijediOd": "2022-10-25T10:16:18.095Z",
-          "vrijediDo": "2022-10-25T10:16:18.096Z",
-          "adresaId": 1,
-          "mjestoId": 1,
-          "mjesto": "string",
-          "adresa1": "string",
-          "adresa2": "string",
-          "pp": "string"
-        }
-      ],
-      "ustanove": [
-        {
-          "ustanovaId": 1,
-          "sifra": "string",
-          "podsifra": "string",
-          "vrijediOd": "2022-10-25T10:16:18.096Z",
-          "vrijediDo": "2022-10-25T10:16:18.096Z",
-          "ugovori": [
-            {
-              "vrstaUgovoraId": 1,
-              "vrijediOd": "2022-10-25T10:16:18.096Z",
-              "vrijediDo": "2022-10-25T10:16:18.096Z"
-            }
-          ],
-          "radnaMjesta": [
-            {
-              "radnoMjestoId": 1,
-              "vrijediOd": "2022-10-25T10:16:18.096Z",
-              "vrijediDo": "2022-10-25T10:16:18.096Z"
-            }
-          ]
-        }
-      ],
-      "ime": "test1Ime",
-      "prezime": "test1Prezime",
-      "oib": "11111111",
-      "djelatnikId": 10
-    },
-	{
-      "spol": "M: 2",
-      "rodjenje": {
-        "datum": "2022-10-25T10:16:18.095Z",
-        "mjesto": "string"
-      },
-      "akademskiStrucniNazivId": 2,
-      "strucnaSprema": {
-        "strucnaSpremaId": 2,
-        "datum": "2022-10-25T10:16:18.095Z",
-        "ustanova": "string"
-      },
-      "adrese": [
-        {
-          "tipAdrese": 2,
-          "vrijediOd": "2022-10-25T10:16:18.095Z",
-          "vrijediDo": "2022-10-25T10:16:18.096Z",
-          "adresaId": 2,
-          "mjestoId": 2,
-          "mjesto": "string",
-          "adresa1": "string",
-          "adresa2": "string",
-          "pp": "string"
-        }
-      ],
-      "ustanove": [
-        {
-          "ustanovaId": 2,
-          "sifra": "string",
-          "podsifra": "string",
-          "vrijediOd": "2022-10-25T10:16:18.096Z",
-          "vrijediDo": "2022-10-25T10:16:18.096Z",
-          "ugovori": [
-            {
-              "vrstaUgovoraId": 2,
-              "vrijediOd": "2022-10-25T10:16:18.096Z",
-              "vrijediDo": "2022-10-25T10:16:18.096Z"
-            }
-          ],
-          "radnaMjesta": [
-            {
-              "radnoMjestoId": 2,
-              "vrijediOd": "2022-10-25T10:16:18.096Z",
-              "vrijediDo": "2022-10-25T10:16:18.096Z"
-            }
-          ]
-        }
-      ],
-      "ime": "test2Ime",
-      "prezime": "Test2Prezime",
-      "oib": "2222222222",
-      "djelatnikId": 11
-    }
-  ]
+	"eMatica_DjelatnikDto": [
+		{
+			"spol": "M: 1",
+			"rodjenje": {
+				"datum": "2022-10-25T10:16:18.095Z",
+				"mjesto": "string"
+			},
+			"akademskiStrucniNazivId": 1,
+			"strucnaSprema": {
+				"strucnaSpremaId": 1,
+				"datum": "2022-10-25T10:16:18.095Z",
+				"ustanova": "string"
+			},
+			"adrese": [
+				{
+					"tipAdrese": 1,
+					"vrijediOd": "2022-10-25T10:16:18.095Z",
+					"vrijediDo": "2022-10-25T10:16:18.096Z",
+					"adresaId": 1,
+					"mjestoId": 1,
+					"mjesto": "string",
+					"adresa1": "string",
+					"adresa2": "string",
+					"pp": "string"
+				}
+			],
+			"ustanove": [
+				{
+					"ustanovaId": 1,
+					"sifra": "string",
+					"podsifra": "string",
+					"vrijediOd": "2022-10-25T10:16:18.096Z",
+					"vrijediDo": "2022-10-25T10:16:18.096Z",
+					"ugovori": [
+						{
+							"vrstaUgovoraId": 1,
+							"vrijediOd": "2022-10-25T10:16:18.096Z",
+							"vrijediDo": "2022-10-25T10:16:18.096Z"
+						}
+					],
+					"radnaMjesta": [
+						{
+							"radnoMjestoId": 1,
+							"vrijediOd": "2022-10-25T10:16:18.096Z",
+							"vrijediDo": "2022-10-25T10:16:18.096Z"
+						}
+					]
+				}
+			],
+			"ime": "Ivo",
+			"prezime": "Ivić",
+			"oib": "50859779766",
+			"djelatnikId": 10
+		},
+		{
+			"spol": "M: 2",
+			"rodjenje": {
+				"datum": "2022-10-25T10:16:18.095Z",
+				"mjesto": "string"
+			},
+			"akademskiStrucniNazivId": 2,
+			"strucnaSprema": {
+				"strucnaSpremaId": 2,
+				"datum": "2022-10-25T10:16:18.095Z",
+				"ustanova": "string"
+			},
+			"adrese": [
+				{
+					"tipAdrese": 2,
+					"vrijediOd": "2022-10-25T10:16:18.095Z",
+					"vrijediDo": "2022-10-25T10:16:18.096Z",
+					"adresaId": 2,
+					"mjestoId": 2,
+					"mjesto": "string",
+					"adresa1": "string",
+					"adresa2": "string",
+					"pp": "string"
+				}
+			],
+			"ustanove": [
+				{
+					"ustanovaId": 2,
+					"sifra": "string",
+					"podsifra": "string",
+					"vrijediOd": "2022-10-25T10:16:18.096Z",
+					"vrijediDo": "2022-10-25T10:16:18.096Z",
+					"ugovori": [
+						{
+							"vrstaUgovoraId": 2,
+							"vrijediOd": "2022-10-25T10:16:18.096Z",
+							"vrijediDo": "2022-10-25T10:16:18.096Z"
+						}
+					],
+					"radnaMjesta": [
+						{
+							"radnoMjestoId": 2,
+							"vrijediOd": "2022-10-25T10:16:18.096Z",
+							"vrijediDo": "2022-10-25T10:16:18.096Z"
+						}
+					]
+				}
+			],
+			"ime": "Pero",
+			"prezime": "Perić",
+			"oib": "33249561883",
+			"djelatnikId": 11
+		},
+		{
+			"spol": "M: 3",
+			"rodjenje": {
+				"datum": "2022-10-25T10:16:18.095Z",
+				"mjesto": "string"
+			},
+			"akademskiStrucniNazivId": 1,
+			"strucnaSprema": {
+				"strucnaSpremaId": 1,
+				"datum": "2022-10-25T10:16:18.095Z",
+				"ustanova": "string"
+			},
+			"adrese": [
+				{
+					"tipAdrese": 1,
+					"vrijediOd": "2022-10-25T10:16:18.095Z",
+					"vrijediDo": "2022-10-25T10:16:18.096Z",
+					"adresaId": 1,
+					"mjestoId": 1,
+					"mjesto": "string",
+					"adresa1": "string",
+					"adresa2": "string",
+					"pp": "string"
+				}
+			],
+			"ustanove": [
+				{
+					"ustanovaId": 1,
+					"sifra": "string",
+					"podsifra": "string",
+					"vrijediOd": "2022-10-25T10:16:18.096Z",
+					"vrijediDo": "2022-10-25T10:16:18.096Z",
+					"ugovori": [
+						{
+							"vrstaUgovoraId": 1,
+							"vrijediOd": "2022-10-25T10:16:18.096Z",
+							"vrijediDo": "2022-10-25T10:16:18.096Z"
+						}
+					],
+					"radnaMjesta": [
+						{
+							"radnoMjestoId": 3,
+							"vrijediOd": "2022-10-25T10:16:18.096Z",
+							"vrijediDo": "2022-10-25T10:16:18.096Z"
+						}
+					]
+				}
+			],
+			"ime": "Luka",
+			"prezime": "Lukić",
+			"oib": "98963568219",
+			"djelatnikId": 12
+		}
+	]
 }
