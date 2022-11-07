@@ -51,7 +51,8 @@
 			"ime": "Ivo",
 			"prezime": "Ivić",
 			"oib": "50859779766",
-			"djelatnikId": 10
+			"djelatnikId": 10,
+			"email": "luka.pavlovic@akd.hr"
 		},
 		{
 			"spol": "M: 2",
@@ -104,7 +105,8 @@
 			"ime": "Pero",
 			"prezime": "Perić",
 			"oib": "33249561883",
-			"djelatnikId": 11
+			"djelatnikId": 11,
+			"email": "luka.pavlovic@akd.hr"
 		},
 		{
 			"spol": "M: 3",
@@ -157,7 +159,8 @@
 			"ime": "Luka",
 			"prezime": "Lukić",
 			"oib": "98963568219",
-			"djelatnikId": 12
+			"djelatnikId": 12,
+			"email": "luka.pavlovic@akd.hr"
 		}
 	]
 }
